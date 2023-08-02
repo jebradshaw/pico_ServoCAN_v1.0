@@ -10,7 +10,7 @@ Note that on version 1.0, the MCP2515 18-pin DIP package needs pin 17 (!RESET) t
   
 ![Solder_jumpers_backOfBoard_marked](https://github.com/jebradshaw/pico_ServoCAN_v1.0/assets/5246863/0b774c0b-8bcd-45a1-a45e-b61d4d0a5215)
 
-Also note that the board was originally designed using an OKI 78SR Series 5V 1.5A regulator, which are now very difficult to come by.  So the part has been replaced with a VR20S05 5 volt 2 amp regulator which comes in a slightly larger, sealed, package.  To get this regulator to fit on the board, C6 (a .1uF capacitor) should not be soldered in place.
+Also note that the board was originally designed using an OKI 78SR Series 5V 1.5A regulator (U4), which are now very difficult to come by.  So the part has been replaced with a VR20S05 5 volt 2 amp regulator which comes in a slightly larger, sealed, package (available from Digikey).  To get this regulator to fit on the board, C6 (a .1uF capacitor) should not be soldered in place.
 
 ![KiCAD_PCB_Artwork](https://github.com/jebradshaw/pico_ServoCAN_v1.0/assets/5246863/dace43ad-c81a-4756-9326-021f57ee2c05)
 
