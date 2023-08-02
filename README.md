@@ -7,8 +7,7 @@ This RasPi Pico RP2040 microcontroller board contains an MCP2515 SPI CAN bus tra
 
 Note that on version 1.0, the MCP2515 18-pin DIP package needs pin 17 (!RESET) tied high, usuaally through a solder jumper from pin 17 to pin 18 (Vcc) on the underside of the PCB.
   Also pin 8 (STBY) of the MCP2561 CAN transceiver should be tied LOW to ground through an external wire jumper.
-
-![Solder_jumpers_backOfBoard](https://github.com/jebradshaw/pico_ServoCAN_v1.0/assets/5246863/4d15a240-83df-48fa-93b2-475e1af5be46)
+![Solder_jumpers_backOfBoard_marked](https://github.com/jebradshaw/pico_ServoCAN_v1.0/assets/5246863/0b774c0b-8bcd-45a1-a45e-b61d4d0a5215)
 
 ![KiCAD_PCB_Artwork](https://github.com/jebradshaw/pico_ServoCAN_v1.0/assets/5246863/dace43ad-c81a-4756-9326-021f57ee2c05)
 
