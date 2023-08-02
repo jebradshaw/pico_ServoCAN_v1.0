@@ -16,8 +16,11 @@ Also note that the board was originally designed using an OKI 78SR Series 5V 1.5
 ![KiCAD_PCB_Artwork](https://github.com/jebradshaw/pico_ServoCAN_v1.0/assets/5246863/dace43ad-c81a-4756-9326-021f57ee2c05)
 
 ![3D_Render_of_PCB](https://github.com/jebradshaw/pico_ServoCAN_v1.0/assets/5246863/a911d34e-cfc2-46b8-be41-5ea7473034b4)
+KiCAD 3D render of PCB
 
 [pico_Kingfisher_2023.pdf](https://github.com/jebradshaw/pico_ServoCAN_v1.0/files/12242137/pico_Kingfisher_2023.pdf)
 PDF Schematic above
+
+  If using Adafruits Circuit Python (which I like for the RP2040), copy the lib folder contents to the pico drive under .lib to include the CAN libraries for the CAN bus controller.  An example program to test the CAN transmit and receive functionality is also included.
 
 
