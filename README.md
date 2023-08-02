@@ -19,6 +19,8 @@ Also note that the board was originally designed using an OKI 78SR Series 5V 1.5
 
 KiCAD 3D render of PCB
 
+![Schamatic](https://github.com/jebradshaw/pico_ServoCAN_v1.0/assets/5246863/dc132d68-9685-4170-b8d4-9f60317bf44c)
+
 Schematic (PDF format) - [pico_Kingfisher_2023.pdf](https://github.com/jebradshaw/pico_ServoCAN_v1.0/files/12242137/pico_Kingfisher_2023.pdf)
 
 
