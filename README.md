@@ -26,4 +26,4 @@ Schematic (PDF format) - [pico_Kingfisher_2023.pdf](https://github.com/jebradsha
 
   If using Adafruits Circuit Python (which I like for the RP2040), copy the lib folder contents to the pico drive under .lib to include the CAN libraries for the CAN bus controller.  An example program to test the CAN transmit and receive functionality is also included.
 
-  Also added is an Arduino sketch for the CAN interface and servo outs running on both cores overclocked to 250MHz (Core Temp ~ 31 deg C).
+  Also added is an Arduino (which I also really like) sketch for the CAN interface and servo outs running on both cores overclocked to 250MHz (Core Temp ~ 31 deg C).
